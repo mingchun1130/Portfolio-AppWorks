@@ -1,0 +1,8 @@
+# environment variables
+.env
+
+# pytest log file
+pytest.log
+
+# vscode settings
+.vscode

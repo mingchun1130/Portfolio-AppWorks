@@ -1,0 +1,19 @@
+{
+  "category": "men",
+  "title": "I",
+  "description": "I",
+  "price": "0",
+  "texture": "I",
+  "wash": "I",
+  "place": "I",
+  "note": "I",
+  "story": "I",
+  "color_ids": [
+    "2",
+    "3"
+  ],
+  "sizes": [
+    "L",
+    "XL"
+  ]
+}

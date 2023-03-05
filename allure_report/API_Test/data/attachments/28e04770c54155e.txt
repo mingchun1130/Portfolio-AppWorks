@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Receiver Name is required."
+}

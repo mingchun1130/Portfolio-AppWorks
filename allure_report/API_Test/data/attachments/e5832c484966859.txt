@@ -1,0 +1,8 @@
+INFO     root:request_util.py:13 POST http://54.201.140.239/api/1.0/user/login
+INFO     root:request_util.py:31 Status code is 200
+INFO     root:user.py:50 Logout with access token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm92aWRlciI6Im5hdGl2ZSIsIm5hbWUiOiJtaW5nY2h1bjIiLCJlbWFpbCI6ImZvbzJAYmFyLmJheiIsInBpY3R1cmUiOm51bGwsImlhdCI6MTY3MTU0NTQzNX0.nxQsMUejwjJ6UOuvGcfLXkJWb2RqljlbiQfcTAl4jds
+INFO     root:request_util.py:13 POST http://54.201.140.239/api/1.0/user/logout
+INFO     root:request_util.py:31 Status code is 200
+INFO     root:user.py:50 Logout with access token: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm92aWRlciI6Im5hdGl2ZSIsIm5hbWUiOiJtaW5nY2h1bjIiLCJlbWFpbCI6ImZvbzJAYmFyLmJheiIsInBpY3R1cmUiOm51bGwsImlhdCI6MTY3MTU0NTQzNX0.nxQsMUejwjJ6UOuvGcfLXkJWb2RqljlbiQfcTAl4jds
+INFO     root:request_util.py:13 POST http://54.201.140.239/api/1.0/user/logout
+INFO     root:request_util.py:31 Status code is 403

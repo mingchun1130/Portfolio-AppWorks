@@ -1,0 +1,158 @@
+{
+  "data": [
+    {
+      "id": 201902191245,
+      "category": "women",
+      "title": "小扇紋質感上衣",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 999,
+      "texture": "棉 100%",
+      "wash": "手洗",
+      "place": "越南",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201902191245/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201902191245/0.jpg",
+        "http://54.201.140.239/assets/201902191245/1.jpg",
+        "http://54.201.140.239/assets/201902191245/0.jpg",
+        "http://54.201.140.239/assets/201902191245/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 201902191247,
+      "category": "women",
+      "title": "經典修身長筒牛仔褲",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 1999,
+      "texture": "棉 100%",
+      "wash": "手洗",
+      "place": "越南",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201902191247/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201902191247/0.jpg",
+        "http://54.201.140.239/assets/201902191247/1.jpg",
+        "http://54.201.140.239/assets/201902191247/0.jpg",
+        "http://54.201.140.239/assets/201902191247/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 1671544317477,
+      "category": "women",
+      "title": "H連身裙",
+      "description": "詳細內容",
+      "price": 100,
+      "texture": "棉質",
+      "wash": "手洗",
+      "place": "Taiwan",
+      "note": "Notes",
+      "story": "Story Content",
+      "main_image": "http://54.201.140.239/assets/1671544317477/mainimage.jpg",
+      "images": [
+        "http://54.201.140.239/assets/1671544317477/otherimage0.jpg",
+        "http://54.201.140.239/assets/1671544317477/otherimage1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "F",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        }
+      ],
+      "sizes": [
+        "F"
+      ]
+    }
+  ]
+}

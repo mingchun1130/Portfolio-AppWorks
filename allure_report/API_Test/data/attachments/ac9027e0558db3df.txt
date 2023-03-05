@@ -1,0 +1,39 @@
+{
+  "data": {
+    "id": 5008,
+    "number": "71223749413",
+    "time": 1659334374941,
+    "status": 0,
+    "details": {
+      "list": [
+        {
+          "id": 201807201824,
+          "qty": 9,
+          "name": "前開衩扭結洋裝",
+          "size": "S",
+          "color": {
+            "code": "CCCCCC",
+            "name": "淺灰"
+          },
+          "image": "https://54.201.140.239/assets/201807201824/main.jpg",
+          "price": 799,
+          "stock": 9
+        }
+      ],
+      "total": 7221,
+      "freight": 30,
+      "payment": "credit_card",
+      "shipping": "delivery",
+      "subtotal": 7191,
+      "recipient": {
+        "name": "陳大文",
+        "time": "anytime",
+        "email": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "phone": "912345678",
+        "address": "台北市"
+      }
+    },
+    "user_id": 10250,
+    "total": 7221
+  }
+}

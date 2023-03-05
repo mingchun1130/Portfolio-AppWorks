@@ -1,0 +1,14 @@
+{
+  "data": {
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwcm92aWRlciI6Im5hdGl2ZSIsIm5hbWUiOiJtaW5nY2h1bjEiLCJlbWFpbCI6ImZvbzFAYmFyLmJheiIsInBpY3R1cmUiOm51bGwsImlhdCI6MTY3MTU0NTMyN30.ylBCXTEove1IQLQzrMGMce8ZB3F9equaqtiracAr3mI",
+    "access_expired": "2592000",
+    "login_at": "2022-12-20T14:08:47.557Z",
+    "user": {
+      "id": 10291,
+      "provider": "native",
+      "name": "mingchun1",
+      "email": "foo1@bar.baz",
+      "picture": null
+    }
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "prime": "b873b49b8c60d4cfc3dbbb1aa6a81a30a2597ccd61e1165b05bc7b4e428fa16a",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 219580,
+    "total": 219610,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201807242211,
+        "image": "http://54.201.140.239/assets/201807242211/main.jpg",
+        "name": "純色輕薄百搭襯衫",
+        "price": 799,
+        "size": "L",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 9
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "M",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 2
+      },
+      {
+        "id": 201807202157,
+        "image": "http://54.201.140.239/assets/201807202157/main.jpg",
+        "name": "活力花紋長筒牛仔褲",
+        "price": 1299,
+        "size": "M",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 1
+      },
+      {
+        "id": 201902191247,
+        "image": "http://54.201.140.239/assets/201902191247/main.jpg",
+        "name": "經典修身長筒牛仔褲",
+        "price": 1999,
+        "size": "S",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 1
+      },
+      {
+        "id": 201807202157,
+        "image": "http://54.201.140.239/assets/201807202157/main.jpg",
+        "name": "活力花紋長筒牛仔褲",
+        "price": 1299,
+        "size": "M",
+        "color": {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        },
+        "qty": 7
+      }
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "prime": "8d828ac810ffee3a099663d5ab8653502ccfa282b58757e2cfe0bf3dc1a45e6c",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 15387,
+    "freight": 30,
+    "total": 15417,
+    "recipient": null,
+    "list": [
+      {
+        "id": 201807202157,
+        "image": "http://54.201.140.239/assets/201807202157/main.jpg",
+        "name": "活力花紋長筒牛仔褲",
+        "price": 1299,
+        "size": "S",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 7
+      },
+      {
+        "id": 201807242228,
+        "image": "http://54.201.140.239/assets/201807242228/main.jpg",
+        "name": "夏日海灘戶外遮陽帽",
+        "price": 1499,
+        "size": "L",
+        "color": {
+          "code": "BB7744",
+          "name": "淺棕"
+        },
+        "qty": 1
+      },
+      {
+        "id": 201807202140,
+        "image": "http://54.201.140.239/assets/201807202140/main.jpg",
+        "name": "透肌澎澎防曬襯衫",
+        "price": 599,
+        "size": "S",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 4
+      },
+      {
+        "id": 201807242216,
+        "image": "http://54.201.140.239/assets/201807242216/main.jpg",
+        "name": "時尚輕鬆休閒西裝",
+        "price": 2399,
+        "size": "S",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 1
+      }
+    ]
+  }
+}

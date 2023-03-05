@@ -1,0 +1,7 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw0
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw0/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_create_product.py:126 Alert message is texture cannot more than 127 characters.
+INFO     root:conftest.py:53 Taking final screenshot before ending test

@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Category is required."
+}

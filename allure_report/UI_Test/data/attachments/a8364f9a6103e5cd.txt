@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201807202140",
+    "name": "透肌澎澎防曬襯衫",
+    "color": "淺灰",
+    "size": "L",
+    "quantity": 2,
+    "price": 599,
+    "subtotal": 1198
+  },
+  {
+    "id": "201902191242",
+    "name": "透肌澎澎薄紗襯衫",
+    "color": "淺藍",
+    "size": "L",
+    "quantity": 7,
+    "price": 999,
+    "subtotal": 6993
+  }
+]

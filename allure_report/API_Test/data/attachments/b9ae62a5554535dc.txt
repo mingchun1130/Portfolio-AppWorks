@@ -1,0 +1,18 @@
+{
+  "prime": "6e866e030533d8d980dd68efb49dd0a54e674f5c4ff2cb7cb29660ff704cda91",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 900590,
+    "freight": 30,
+    "total": 900620,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": []
+  }
+}

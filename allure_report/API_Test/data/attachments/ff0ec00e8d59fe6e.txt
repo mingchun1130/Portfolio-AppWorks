@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Provider can be \"native\" or \"facebook\" only"
+}

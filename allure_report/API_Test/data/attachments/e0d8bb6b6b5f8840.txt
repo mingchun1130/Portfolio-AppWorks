@@ -1,0 +1,17 @@
+{
+  "category": "women",
+  "title": "Mingchun_連身裙",
+  "description": "詳細內容",
+  "price": "100",
+  "texture": "棉質",
+  "wash": "手洗",
+  "place": "Taiwan",
+  "note": "Notes",
+  "story": "Story Content",
+  "color_ids": [
+    "1"
+  ],
+  "sizes": [
+    "F"
+  ]
+}

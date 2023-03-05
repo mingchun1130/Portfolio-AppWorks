@@ -1,0 +1,432 @@
+{
+  "data": [
+    {
+      "id": 201807242228,
+      "category": "accessories",
+      "title": "夏日海灘戶外遮陽帽",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 1499,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242228/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242228/0.jpg",
+        "http://54.201.140.239/assets/201807242228/1.jpg",
+        "http://54.201.140.239/assets/201807242228/0.jpg",
+        "http://54.201.140.239/assets/201807242228/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        },
+        {
+          "code": "BB7744",
+          "name": "淺棕"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 201807242230,
+      "category": "accessories",
+      "title": "經典牛仔帽",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 799,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242230/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242230/0.jpg",
+        "http://54.201.140.239/assets/201807242230/1.jpg",
+        "http://54.201.140.239/assets/201807242230/0.jpg",
+        "http://54.201.140.239/assets/201807242230/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "BB7744",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "BB7744",
+          "name": "淺棕"
+        },
+        {
+          "code": "334455",
+          "name": "深藍"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 201807242232,
+      "category": "accessories",
+      "title": "卡哇伊多功能隨身包",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 1299,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242232/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242232/0.jpg",
+        "http://54.201.140.239/assets/201807242232/1.jpg",
+        "http://54.201.140.239/assets/201807242232/0.jpg",
+        "http://54.201.140.239/assets/201807242232/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "F",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "FFDDDD",
+          "name": "粉紅"
+        }
+      ],
+      "sizes": [
+        "F"
+      ]
+    },
+    {
+      "id": 201807242234,
+      "category": "accessories",
+      "title": "柔軟氣質羊毛圍巾",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 1799,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242234/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242234/0.jpg",
+        "http://54.201.140.239/assets/201807242234/1.jpg",
+        "http://54.201.140.239/assets/201807242234/0.jpg",
+        "http://54.201.140.239/assets/201807242234/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "F",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        }
+      ],
+      "sizes": [
+        "F"
+      ]
+    },
+    {
+      "id": 1671544317475,
+      "category": "accessories",
+      "title": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+      "description": "MichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMic",
+      "price": 99999,
+      "texture": "棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉",
+      "wash": "手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手",
+      "place": "TaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanT",
+      "note": "NotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNo",
+      "story": "Story Content",
+      "main_image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+      "images": [
+        "http://54.201.140.239/assets/1671544317475/otherimage0.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "F",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        {
+          "code": "BB7744",
+          "name": "淺棕"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        },
+        {
+          "code": "334455",
+          "name": "深藍"
+        },
+        {
+          "code": "FFDDDD",
+          "name": "粉紅"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "F"
+      ]
+    }
+  ]
+}

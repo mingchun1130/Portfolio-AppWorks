@@ -1,0 +1,189 @@
+{
+  "data": [
+    {
+      "id": 201807242211,
+      "category": "men",
+      "title": "純色輕薄百搭襯衫",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 799,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242211/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242211/0.jpg",
+        "http://54.201.140.239/assets/201807242211/1.jpg",
+        "http://54.201.140.239/assets/201807242211/0.jpg",
+        "http://54.201.140.239/assets/201807242211/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "XL",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L",
+        "XL"
+      ]
+    },
+    {
+      "id": 201807242216,
+      "category": "men",
+      "title": "時尚輕鬆休閒西裝",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 2399,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242216/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242216/0.jpg",
+        "http://54.201.140.239/assets/201807242216/1.jpg",
+        "http://54.201.140.239/assets/201807242216/0.jpg",
+        "http://54.201.140.239/assets/201807242216/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 201807242222,
+      "category": "men",
+      "title": "經典商務西裝",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 3999,
+      "texture": "棉 100%",
+      "wash": "手洗，溫水",
+      "place": "中國",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201807242222/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201807242222/0.jpg",
+        "http://54.201.140.239/assets/201807242222/1.jpg",
+        "http://54.201.140.239/assets/201807242222/0.jpg",
+        "http://54.201.140.239/assets/201807242222/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "334455",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "XL",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "334455",
+          "name": "深藍"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ]
+    }
+  ]
+}

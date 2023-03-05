@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Main Image is required."
+}

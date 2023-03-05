@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1671541958752",
+    "name": "H",
+    "color": "淺灰",
+    "size": "L",
+    "quantity": 8,
+    "price": 0,
+    "subtotal": 0
+  },
+  {
+    "id": "201807242222",
+    "name": "經典商務西裝",
+    "color": "深藍",
+    "size": "L",
+    "quantity": 7,
+    "price": 3999,
+    "subtotal": 27993
+  }
+]

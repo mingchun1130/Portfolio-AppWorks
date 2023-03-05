@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201807242228",
+    "name": "夏日海灘戶外遮陽帽",
+    "color": "淺棕",
+    "size": "M",
+    "quantity": 1,
+    "price": 1499,
+    "subtotal": 1499
+  },
+  {
+    "id": "201807201824",
+    "name": "前開衩扭結洋裝",
+    "color": "亮綠",
+    "size": "M",
+    "quantity": 4,
+    "price": 799,
+    "subtotal": 3196
+  }
+]

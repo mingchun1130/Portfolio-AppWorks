@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201807242228",
+    "name": "夏日海灘戶外遮陽帽",
+    "color": "淺棕",
+    "size": "M",
+    "quantity": 1,
+    "price": 1499,
+    "subtotal": 1499
+  },
+  {
+    "id": "201807202150",
+    "name": "小扇紋細織上衣",
+    "color": "亮綠",
+    "size": "S",
+    "quantity": 1,
+    "price": 599,
+    "subtotal": 599
+  }
+]

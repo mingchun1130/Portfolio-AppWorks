@@ -1,0 +1,5 @@
+{
+  "email": "foo1@bar.baz",
+  "password": "98765",
+  "provider": "native"
+}

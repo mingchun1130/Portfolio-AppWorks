@@ -1,0 +1,9 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw1
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw1/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_checkout.py:101 {'id': '201807242216', 'name': '時尚輕鬆休閒西裝', 'color': '白色', 'size': 'M', 'quantity': 7, 'price': 2399, 'subtotal': 16793}
+INFO     root:test_web_checkout.py:101 {'id': '201902191210', 'name': '精緻扭結洋裝', 'color': '白色', 'size': 'S', 'quantity': 1, 'price': 999, 'subtotal': 999}
+INFO     root:test_web_checkout.py:135 Alert message is Email format is not correct.
+INFO     root:conftest.py:53 Taking final screenshot before ending test

@@ -1,0 +1,57 @@
+{
+  "data": {
+    "id": 201902191210,
+    "category": "women",
+    "title": "精緻扭結洋裝",
+    "description": "厚薄：薄\r\n彈性：無",
+    "price": 999,
+    "texture": "棉 100%",
+    "wash": "手洗",
+    "place": "越南",
+    "note": "實品顏色依單品照為主",
+    "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+    "main_image": "http://54.201.140.239/assets/201902191210/main.jpg",
+    "images": [
+      "http://54.201.140.239/assets/201902191210/0.jpg",
+      "http://54.201.140.239/assets/201902191210/1.jpg",
+      "http://54.201.140.239/assets/201902191210/0.jpg",
+      "http://54.201.140.239/assets/201902191210/1.jpg"
+    ],
+    "variants": [
+      {
+        "color_code": "FFFFFF",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "color_code": "FFFFFF",
+        "size": "M",
+        "stock": 9
+      },
+      {
+        "color_code": "FFDDDD",
+        "size": "S",
+        "stock": 9
+      },
+      {
+        "color_code": "FFDDDD",
+        "size": "M",
+        "stock": 9
+      }
+    ],
+    "colors": [
+      {
+        "code": "FFFFFF",
+        "name": "白色"
+      },
+      {
+        "code": "FFDDDD",
+        "name": "粉紅"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M"
+    ]
+  }
+}

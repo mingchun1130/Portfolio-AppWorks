@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Size should be 'S', 'M', 'L', 'XL', 'F' Only"
+}

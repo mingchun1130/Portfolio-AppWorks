@@ -1,0 +1,17 @@
+{
+  "Category": "Men",
+  "Title": "I",
+  "Description": "I",
+  "Price": "0",
+  "Texture": "I",
+  "Wash": "I",
+  "Place of Product": "I",
+  "Note": "I",
+  "Colors": "亮綠, 淺灰",
+  "Sizes": "L, XL",
+  "Story": "I",
+  "Main Image": "mainImage.jpg",
+  "Other Image 1": "",
+  "Other Image 2": "otherImage1.jpg",
+  "Unnamed: 14": "Success"
+}

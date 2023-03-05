@@ -1,0 +1,11 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw1
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw1/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_shopping_cart.py:163 {'id': '201807242228', 'name': '夏日海灘戶外遮陽帽', 'color': '淺棕', 'size': 'M', 'quantity': 1, 'price': 1499, 'subtotal': 1499}
+INFO     root:test_web_shopping_cart.py:163 {'id': '201807202150', 'name': '小扇紋細織上衣', 'color': '亮綠', 'size': 'S', 'quantity': 1, 'price': 599, 'subtotal': 599}
+INFO     root:test_web_shopping_cart.py:177 Unit price is 1499
+INFO     root:test_web_shopping_cart.py:179 Modify to quantity 2
+INFO     root:test_web_shopping_cart.py:184 Alert message is 已修改數量
+INFO     root:conftest.py:53 Taking final screenshot before ending test

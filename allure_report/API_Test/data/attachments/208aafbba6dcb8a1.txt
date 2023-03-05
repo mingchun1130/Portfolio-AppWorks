@@ -1,0 +1,55 @@
+{
+  "prime": "caa6247fd553bb99afc454bc92a785321cda72367c8ae862db886cd668d84da6",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 715182,
+    "freight": 30,
+    "total": 715212,
+    "recipient": {
+      "name": null,
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201902191210,
+        "image": "http://54.201.140.239/assets/201902191210/main.jpg",
+        "name": "精緻扭結洋裝",
+        "price": 999,
+        "size": "S",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 8
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "L",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 7
+      },
+      {
+        "id": 201807242216,
+        "image": "http://54.201.140.239/assets/201807242216/main.jpg",
+        "name": "時尚輕鬆休閒西裝",
+        "price": 2399,
+        "size": "M",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 3
+      }
+    ]
+  }
+}

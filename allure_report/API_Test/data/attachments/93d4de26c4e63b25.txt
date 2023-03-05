@@ -1,0 +1,79 @@
+{
+  "prime": "b16cb49bf30f53335cccb8cf061b8e578971ef325b742e18b73708b762bb14ca",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 1445569,
+    "freight": 30,
+    "total": 1445599,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": null,
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201807201824,
+        "image": "http://54.201.140.239/assets/201807201824/main.jpg",
+        "name": "前開衩扭結洋裝",
+        "price": 799,
+        "size": "S",
+        "color": {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        "qty": 5
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "XL",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 6
+      },
+      {
+        "id": 201807242222,
+        "image": "http://54.201.140.239/assets/201807242222/main.jpg",
+        "name": "經典商務西裝",
+        "price": 3999,
+        "size": "XL",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 8
+      },
+      {
+        "id": 201807242216,
+        "image": "http://54.201.140.239/assets/201807242216/main.jpg",
+        "name": "時尚輕鬆休閒西裝",
+        "price": 2399,
+        "size": "L",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 4
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "M",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 8
+      }
+    ]
+  }
+}

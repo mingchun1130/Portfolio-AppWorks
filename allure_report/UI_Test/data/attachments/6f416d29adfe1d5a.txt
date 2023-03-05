@@ -1,0 +1,9 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw2
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw2/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_checkout.py:101 {'id': '201902191245', 'name': '小扇紋質感上衣', 'color': '淺灰', 'size': 'M', 'quantity': 7, 'price': 999, 'subtotal': 6993}
+INFO     root:test_web_checkout.py:101 {'id': '201807202150', 'name': '小扇紋細織上衣', 'color': '淺灰', 'size': 'S', 'quantity': 4, 'price': 599, 'subtotal': 2396}
+INFO     root:test_web_checkout.py:135 Alert message is Receiver address cannot more than 255 characters.
+INFO     root:conftest.py:53 Taking final screenshot before ending test

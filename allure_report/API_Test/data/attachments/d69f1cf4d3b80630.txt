@@ -1,0 +1,3 @@
+INFO     root:user.py:65 Get profile with access token: Bearer Invalid token
+INFO     root:request_util.py:19 GET http://54.201.140.239/api/1.0/user/profile
+INFO     root:request_util.py:31 Status code is 403

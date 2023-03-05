@@ -1,0 +1,8 @@
+INFO     root:request_util.py:19 GET http://54.201.140.239/api/1.0/products/women?paging=-1
+INFO     root:request_util.py:31 Status code is 500
+INFO     root:request_util.py:19 GET http://54.201.140.239/api/1.0/products/women?paging=-1
+INFO     root:request_util.py:31 Status code is 500
+INFO     root:request_util.py:19 GET http://54.201.140.239/api/1.0/products/women?paging=-1
+INFO     root:request_util.py:31 Status code is 500
+INFO     root:request_util.py:19 GET http://54.201.140.239/api/1.0/products/women?paging=-1
+INFO     root:request_util.py:31 Status code is 500

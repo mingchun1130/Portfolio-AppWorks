@@ -1,0 +1,30 @@
+{
+  "prime": "04993651f995f8b6b21d560e1ca5001876545e86106a7e9c9491bb6e94ff69e0",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 899991,
+    "freight": 30,
+    "total": 900021,
+    "recipient": {
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "S",
+        "color": {
+          "code": "FFDDDD",
+          "name": "粉紅"
+        },
+        "qty": 9
+      }
+    ]
+  }
+}

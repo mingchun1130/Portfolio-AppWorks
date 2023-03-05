@@ -1,0 +1,54 @@
+{
+  "prime": "4e8ec2e02675906cef6877a9ac3d91e481dbbd26bcfc354731edc4c90cb37b54",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 904688,
+    "freight": 30,
+    "total": 904718,
+    "recipient": {
+      "name": "陳大文",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 1671544317477,
+        "image": "http://54.201.140.239/assets/1671544317477/mainimage.jpg",
+        "name": "H連身裙",
+        "price": 100,
+        "size": "F",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 8
+      },
+      {
+        "id": 201807202157,
+        "image": "http://54.201.140.239/assets/201807202157/main.jpg",
+        "name": "活力花紋長筒牛仔褲",
+        "price": 1299,
+        "size": "M",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 3
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "M",
+        "color": {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        },
+        "qty": 9
+      }
+    ]
+  }
+}

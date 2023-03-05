@@ -1,0 +1,67 @@
+{
+  "prime": "f919066feaa1de3341a6fcf0fad9f8a92a4a9a52a35d1d2df0cabb58eecd2df8",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": null,
+    "freight": 30,
+    "total": 1310799,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "F",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 9
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "F",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 4
+      },
+      {
+        "id": 201807202140,
+        "image": "http://54.201.140.239/assets/201807202140/main.jpg",
+        "name": "透肌澎澎防曬襯衫",
+        "price": 599,
+        "size": "S",
+        "color": {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        "qty": 9
+      },
+      {
+        "id": 201807202150,
+        "image": "http://54.201.140.239/assets/201807202150/main.jpg",
+        "name": "小扇紋細織上衣",
+        "price": 599,
+        "size": "M",
+        "color": {
+          "code": "BB7744",
+          "name": "淺棕"
+        },
+        "qty": 9
+      }
+    ]
+  }
+}

@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Freight is required."
+}

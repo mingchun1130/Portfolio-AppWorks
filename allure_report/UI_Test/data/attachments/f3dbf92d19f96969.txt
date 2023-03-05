@@ -1,0 +1,9 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw2
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw2/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_shopping_cart.py:103 {'id': '1671541958752', 'name': 'H', 'color': '淺灰', 'size': 'L', 'quantity': 8, 'price': 0, 'subtotal': 0}
+INFO     root:test_web_shopping_cart.py:103 {'id': '201807242222', 'name': '經典商務西裝', 'color': '深藍', 'size': 'L', 'quantity': 7, 'price': 3999, 'subtotal': 27993}
+INFO     root:test_web_shopping_cart.py:122 Alert message is 已刪除商品
+INFO     root:conftest.py:53 Taking final screenshot before ending test

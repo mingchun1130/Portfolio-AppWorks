@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Category should be 'men', 'women' or 'accessories' Only"
+}

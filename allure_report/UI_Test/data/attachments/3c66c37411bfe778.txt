@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201902191245",
+    "name": "小扇紋質感上衣",
+    "color": "淺灰",
+    "size": "M",
+    "quantity": 7,
+    "price": 999,
+    "subtotal": 6993
+  },
+  {
+    "id": "201807202150",
+    "name": "小扇紋細織上衣",
+    "color": "淺灰",
+    "size": "S",
+    "quantity": 4,
+    "price": 599,
+    "subtotal": 2396
+  }
+]

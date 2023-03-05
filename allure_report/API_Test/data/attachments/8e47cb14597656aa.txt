@@ -1,0 +1,3 @@
+{
+  "errorMsg": "texture cannot more than 127 characters."
+}

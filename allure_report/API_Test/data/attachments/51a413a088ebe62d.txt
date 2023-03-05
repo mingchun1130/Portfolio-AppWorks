@@ -1,0 +1,66 @@
+{
+  "prime": "f29dcc072f1857a6ccbfb25f0729e3c94e30ec30c6dca9cab552b808888d1495",
+  "order": {
+    "payment": "credit_card",
+    "subtotal": 20386,
+    "freight": 30,
+    "total": 20416,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201807201824,
+        "image": "http://54.201.140.239/assets/201807201824/main.jpg",
+        "name": "前開衩扭結洋裝",
+        "price": 799,
+        "size": "S",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 2
+      },
+      {
+        "id": 201902191247,
+        "image": "http://54.201.140.239/assets/201902191247/main.jpg",
+        "name": "經典修身長筒牛仔褲",
+        "price": 1999,
+        "size": "L",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 1
+      },
+      {
+        "id": 201807201824,
+        "image": "http://54.201.140.239/assets/201807201824/main.jpg",
+        "name": "前開衩扭結洋裝",
+        "price": 799,
+        "size": "L",
+        "color": {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        "qty": 6
+      },
+      {
+        "id": 201807242216,
+        "image": "http://54.201.140.239/assets/201807242216/main.jpg",
+        "name": "時尚輕鬆休閒西裝",
+        "price": 2399,
+        "size": "L",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 5
+      }
+    ]
+  }
+}

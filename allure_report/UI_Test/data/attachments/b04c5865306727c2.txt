@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201807202150",
+    "name": "小扇紋細織上衣",
+    "color": "亮綠",
+    "size": "M",
+    "quantity": 4,
+    "price": 599,
+    "subtotal": 2396
+  },
+  {
+    "id": "201807242216",
+    "name": "時尚輕鬆休閒西裝",
+    "color": "白色",
+    "size": "L",
+    "quantity": 9,
+    "price": 2399,
+    "subtotal": 21591
+  }
+]

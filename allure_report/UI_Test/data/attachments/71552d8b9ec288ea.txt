@@ -1,0 +1,9 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw1
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw1/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_checkout.py:101 {'id': '201807242211', 'name': '純色輕薄百搭襯衫', 'color': '淺藍', 'size': 'M', 'quantity': 9, 'price': 799, 'subtotal': 7191}
+INFO     root:test_web_checkout.py:101 {'id': '201807242228', 'name': '夏日海灘戶外遮陽帽', 'color': '淺藍', 'size': 'L', 'quantity': 3, 'price': 1499, 'subtotal': 4497}
+INFO     root:test_web_checkout.py:135 Alert message is Receiver name cannot more than 100 characters.
+INFO     root:conftest.py:53 Taking final screenshot before ending test

@@ -1,0 +1,31 @@
+{
+  "prime": "2aa0d9c7234cd00c3f1317a12b6a1a1892fa30e225a26d4982887e4dea477700",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 199998,
+    "freight": 30,
+    "total": 200028,
+    "recipient": {
+      "name": "陳大文",
+      "phone": null,
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "M",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 2
+      }
+    ]
+  }
+}

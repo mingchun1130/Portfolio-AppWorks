@@ -1,0 +1,31 @@
+{
+  "prime": "06ccbb5c2e0dff875e0eb49788bf018433b053043dc6340d0d599bb43184f058",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 8991,
+    "freight": 30,
+    "total": null,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201902191210,
+        "image": "http://54.201.140.239/assets/201902191210/main.jpg",
+        "name": "精緻扭結洋裝",
+        "price": 999,
+        "size": "S",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 9
+      }
+    ]
+  }
+}

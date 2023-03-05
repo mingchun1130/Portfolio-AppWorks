@@ -1,0 +1,443 @@
+{
+  "data": [
+    {
+      "id": 201902191242,
+      "category": "women",
+      "title": "透肌澎澎薄紗襯衫",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 999,
+      "texture": "棉 100%",
+      "wash": "手洗",
+      "place": "越南",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201902191242/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201902191242/0.jpg",
+        "http://54.201.140.239/assets/201902191242/1.jpg",
+        "http://54.201.140.239/assets/201902191242/0.jpg",
+        "http://54.201.140.239/assets/201902191242/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "DDFFBB",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 201902191245,
+      "category": "women",
+      "title": "小扇紋質感上衣",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 999,
+      "texture": "棉 100%",
+      "wash": "手洗",
+      "place": "越南",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201902191245/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201902191245/0.jpg",
+        "http://54.201.140.239/assets/201902191245/1.jpg",
+        "http://54.201.140.239/assets/201902191245/0.jpg",
+        "http://54.201.140.239/assets/201902191245/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        }
+      ],
+      "sizes": [
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 201902191247,
+      "category": "women",
+      "title": "經典修身長筒牛仔褲",
+      "description": "厚薄：薄\r\n彈性：無",
+      "price": 1999,
+      "texture": "棉 100%",
+      "wash": "手洗",
+      "place": "越南",
+      "note": "實品顏色依單品照為主",
+      "story": "O.N.S is all about options, which is why we took our staple polo shirt and upgraded it with slubby linen jersey, making it even lighter for those who prefer their summer style extra-breezy.",
+      "main_image": "http://54.201.140.239/assets/201902191247/main.jpg",
+      "images": [
+        "http://54.201.140.239/assets/201902191247/0.jpg",
+        "http://54.201.140.239/assets/201902191247/1.jpg",
+        "http://54.201.140.239/assets/201902191247/0.jpg",
+        "http://54.201.140.239/assets/201902191247/1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L"
+      ]
+    },
+    {
+      "id": 1671544317475,
+      "category": "accessories",
+      "title": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+      "description": "MichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMic",
+      "price": 99999,
+      "texture": "棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉花糖棉",
+      "wash": "手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手",
+      "place": "TaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanTaiwanT",
+      "note": "NotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNotesNo",
+      "story": "Story Content",
+      "main_image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+      "images": [
+        "http://54.201.140.239/assets/1671544317475/otherimage0.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "S",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "M",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "L",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "XL",
+          "stock": 9
+        },
+        {
+          "color_code": "FFFFFF",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "DDFFBB",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "CCCCCC",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "BB7744",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "DDF0FF",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "334455",
+          "size": "F",
+          "stock": 9
+        },
+        {
+          "color_code": "FFDDDD",
+          "size": "F",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        {
+          "code": "BB7744",
+          "name": "淺棕"
+        },
+        {
+          "code": "DDF0FF",
+          "name": "淺藍"
+        },
+        {
+          "code": "334455",
+          "name": "深藍"
+        },
+        {
+          "code": "FFDDDD",
+          "name": "粉紅"
+        }
+      ],
+      "sizes": [
+        "S",
+        "M",
+        "L",
+        "XL",
+        "F"
+      ]
+    },
+    {
+      "id": 1671544317477,
+      "category": "women",
+      "title": "H連身裙",
+      "description": "詳細內容",
+      "price": 100,
+      "texture": "棉質",
+      "wash": "手洗",
+      "place": "Taiwan",
+      "note": "Notes",
+      "story": "Story Content",
+      "main_image": "http://54.201.140.239/assets/1671544317477/mainimage.jpg",
+      "images": [
+        "http://54.201.140.239/assets/1671544317477/otherimage0.jpg",
+        "http://54.201.140.239/assets/1671544317477/otherimage1.jpg"
+      ],
+      "variants": [
+        {
+          "color_code": "FFFFFF",
+          "size": "F",
+          "stock": 9
+        }
+      ],
+      "colors": [
+        {
+          "code": "FFFFFF",
+          "name": "白色"
+        }
+      ],
+      "sizes": [
+        "F"
+      ]
+    }
+  ]
+}

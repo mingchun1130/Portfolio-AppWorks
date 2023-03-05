@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Colors is required."
+}

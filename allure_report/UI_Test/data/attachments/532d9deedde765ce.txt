@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201807242234",
+    "name": "柔軟氣質羊毛圍巾",
+    "color": "淺藍",
+    "size": "F",
+    "quantity": 1,
+    "price": 1799,
+    "subtotal": 1799
+  },
+  {
+    "id": "201807242211",
+    "name": "純色輕薄百搭襯衫",
+    "color": "白色",
+    "size": "M",
+    "quantity": 9,
+    "price": 799,
+    "subtotal": 7191
+  }
+]

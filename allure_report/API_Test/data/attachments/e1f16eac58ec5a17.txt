@@ -1,0 +1,3 @@
+{
+  "errorMsg": "wash cannot more than 127 characters."
+}

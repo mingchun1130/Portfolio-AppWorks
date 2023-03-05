@@ -1,0 +1,55 @@
+{
+  "prime": "28ffde5897feec217c5f8855c5d67aabd6e10d0dcae2ba87073d950938677727",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 33986,
+    "freight": 30,
+    "total": 34016,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": null
+    },
+    "list": [
+      {
+        "id": 201902191245,
+        "image": "http://54.201.140.239/assets/201902191245/main.jpg",
+        "name": "小扇紋質感上衣",
+        "price": 999,
+        "size": "M",
+        "color": {
+          "code": "CCCCCC",
+          "name": "淺灰"
+        },
+        "qty": 2
+      },
+      {
+        "id": 201807201824,
+        "image": "http://54.201.140.239/assets/201807201824/main.jpg",
+        "name": "前開衩扭結洋裝",
+        "price": 799,
+        "size": "L",
+        "color": {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        "qty": 5
+      },
+      {
+        "id": 201807242222,
+        "image": "http://54.201.140.239/assets/201807242222/main.jpg",
+        "name": "經典商務西裝",
+        "price": 3999,
+        "size": "S",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 7
+      }
+    ]
+  }
+}

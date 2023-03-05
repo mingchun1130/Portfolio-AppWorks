@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Color ID should be '1-7' Only"
+}

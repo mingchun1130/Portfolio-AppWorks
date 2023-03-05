@@ -1,0 +1,17 @@
+{
+  "Category": "Women",
+  "Title": "連衣裙",
+  "Description": "詳細內容",
+  "Price": "100",
+  "Texture": "棉",
+  "Wash": "手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗手洗",
+  "Place of Product": "Taiwan",
+  "Note": "Notes",
+  "Colors": "亮綠, 淺灰",
+  "Sizes": "L, XL",
+  "Story": "Story Content",
+  "Main Image": "mainImage.jpg",
+  "Other Image 1": "otherImage0.jpg",
+  "Other Image 2": "otherImage1.jpg",
+  "Alert Msg": "wash cannot more than 127 characters."
+}

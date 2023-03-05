@@ -1,0 +1,19 @@
+{
+  "category": "accessories",
+  "title": "連衣裙",
+  "description": "",
+  "price": "100",
+  "texture": "棉",
+  "wash": "手洗",
+  "place": "Taiwan",
+  "note": "Notes",
+  "story": "Story Content",
+  "color_ids": [
+    "2",
+    "3"
+  ],
+  "sizes": [
+    "L",
+    "XL"
+  ]
+}

@@ -1,0 +1,196 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Dec 20 21:33:43 CST 2022","Tue Dec 20 21:33:50 CST 2022","6757","tests_web","test_web_create_product","","","","Create Product Success","
+    確認使用有效的資料建立新商品時，可成功建立商品。
+    "
+"passed","Tue Dec 20 21:31:33 CST 2022","Tue Dec 20 21:31:53 CST 2022","20162","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:36:59 CST 2022","Tue Dec 20 21:37:09 CST 2022","9691","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:15 CST 2022","Tue Dec 20 21:37:23 CST 2022","7959","tests_web","test_web_login","","","","Login with invalid access token","
+    確認使用無效的jwt token時，不會允許登入。
+    "
+"passed","Tue Dec 20 21:37:19 CST 2022","Tue Dec 20 21:37:26 CST 2022","7175","tests_web","test_web_login","","","","Login and Logout Success","
+    確認使用正確的email與password時，能成功登入並取得jwt token。
+    "
+"passed","Tue Dec 20 21:37:03 CST 2022","Tue Dec 20 21:37:07 CST 2022","3194","tests_web","test_web_create_product","","","","Create Product without login","
+    確認在未登入的狀態下進行建立商品的操作時，不能建立商品且會被重新導到登入畫面。
+    "
+"passed","Tue Dec 20 21:33:25 CST 2022","Tue Dec 20 21:33:37 CST 2022","12199","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:31:55 CST 2022","Tue Dec 20 21:32:21 CST 2022","25415","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:33:54 CST 2022","Tue Dec 20 21:34:07 CST 2022","12917","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:48 CST 2022","Tue Dec 20 21:37:56 CST 2022","8510","tests_web","test_web_shopping_cart","","","","Shopping Cart Info Correct","
+    檢查商品加入購物車後，其在購物車內顯示的資訊與選擇的相同。
+    "
+"passed","Tue Dec 20 21:31:20 CST 2022","Tue Dec 20 21:31:29 CST 2022","9420","tests_web","test_web_checkout","","","","Checkout with empty cart","
+    檢查空購物車進行結帳時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:35:49 CST 2022","Tue Dec 20 21:35:58 CST 2022","9341","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:33:04 CST 2022","Tue Dec 20 21:33:20 CST 2022","15824","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:37:00 CST 2022","Tue Dec 20 21:37:09 CST 2022","9934","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:39 CST 2022","Tue Dec 20 21:37:41 CST 2022","2589","tests_web","test_web_product_page","","","","Add to cart successfully","
+    確認點擊加入購物車按鈕後，商品有被加入購物車。
+    "
+"passed","Tue Dec 20 21:36:36 CST 2022","Tue Dec 20 21:36:45 CST 2022","8903","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:31:34 CST 2022","Tue Dec 20 21:31:52 CST 2022","18577","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:32:26 CST 2022","Tue Dec 20 21:32:43 CST 2022","16873","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:31:58 CST 2022","Tue Dec 20 21:32:22 CST 2022","24178","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:33:08 CST 2022","Tue Dec 20 21:33:32 CST 2022","23937","tests_web","test_web_checkout","","","","Checkout with valid values","
+    檢查輸入有效的訂單資訊時，可成功結帳且結帳商品的資訊正確。
+    "
+"passed","Tue Dec 20 21:30:53 CST 2022","Tue Dec 20 21:31:09 CST 2022","15853","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:35:20 CST 2022","Tue Dec 20 21:35:32 CST 2022","12269","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:31 CST 2022","Tue Dec 20 21:37:33 CST 2022","1664","tests_web","test_web_product_page","","","","Modify size","
+    確認進行選擇尺寸的操作後，被選擇的尺寸是否有正確被highlight。
+    "
+"passed","Tue Dec 20 21:37:54 CST 2022","Tue Dec 20 21:38:02 CST 2022","7894","tests_web","test_web_shopping_cart","","","","Remove product from cart","
+    檢查商品能否從購物車中正確移除。
+    "
+"passed","Tue Dec 20 21:31:59 CST 2022","Tue Dec 20 21:32:27 CST 2022","28295","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:33:48 CST 2022","Tue Dec 20 21:34:06 CST 2022","18733","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:32:45 CST 2022","Tue Dec 20 21:33:05 CST 2022","20377","tests_web","test_web_checkout","","","","Checkout with valid values","
+    檢查輸入有效的訂單資訊時，可成功結帳且結帳商品的資訊正確。
+    "
+"passed","Tue Dec 20 21:32:24 CST 2022","Tue Dec 20 21:32:42 CST 2022","17533","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:34:03 CST 2022","Tue Dec 20 21:34:08 CST 2022","5349","tests_web","test_web_create_product","","","","Create Product Success","
+    確認使用有效的資料建立新商品時，可成功建立商品。
+    "
+"passed","Tue Dec 20 21:34:43 CST 2022","Tue Dec 20 21:35:08 CST 2022","25089","tests_web","test_web_checkout","","","","Checkout with valid values","
+    檢查輸入有效的訂單資訊時，可成功結帳且結帳商品的資訊正確。
+    "
+"passed","Tue Dec 20 21:31:13 CST 2022","Tue Dec 20 21:31:30 CST 2022","17337","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:36:55 CST 2022","Tue Dec 20 21:36:59 CST 2022","3826","tests_web","test_web_create_product","","","","Create Product without login","
+    確認在未登入的狀態下進行建立商品的操作時，不能建立商品且會被重新導到登入畫面。
+    "
+"passed","Tue Dec 20 21:35:50 CST 2022","Tue Dec 20 21:36:00 CST 2022","9413","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:57 CST 2022","Tue Dec 20 21:38:04 CST 2022","6911","tests_web","test_web_shopping_cart","","","","Edit quantity in cart","
+    檢查加入購物車的商品能否正確變更數量。
+    "
+"passed","Tue Dec 20 21:35:46 CST 2022","Tue Dec 20 21:35:56 CST 2022","10325","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:34:26 CST 2022","Tue Dec 20 21:34:39 CST 2022","12917","tests_web","test_web_create_product","","","","Create Product Success","
+    確認使用有效的資料建立新商品時，可成功建立商品。
+    "
+"passed","Tue Dec 20 21:36:36 CST 2022","Tue Dec 20 21:36:45 CST 2022","8664","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:30:53 CST 2022","Tue Dec 20 21:31:08 CST 2022","14507","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:32:46 CST 2022","Tue Dec 20 21:33:02 CST 2022","15621","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:31:11 CST 2022","Tue Dec 20 21:31:29 CST 2022","17643","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:37:27 CST 2022","Tue Dec 20 21:37:29 CST 2022","1790","tests_web","test_web_product_page","","","","Modify color","
+    確認進行選擇顏色的操作後，被選擇的顏色是否有正確被highlight。
+    "
+"passed","Tue Dec 20 21:32:30 CST 2022","Tue Dec 20 21:32:48 CST 2022","18506","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:35:25 CST 2022","Tue Dec 20 21:35:35 CST 2022","9947","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:42 CST 2022","Tue Dec 20 21:37:45 CST 2022","3251","tests_web","test_web_search","TestSearch","","","Search by keyword","
+        確認搜尋出來的商品，是否都含有用以搜尋的關鍵字。
+        "
+"passed","Tue Dec 20 21:37:10 CST 2022","Tue Dec 20 21:37:11 CST 2022","1500","tests_web","test_web_login","","","","Login Failed with incorrect email or password","
+    確認使用錯誤的email與password時，會登入錯誤。
+    "
+"passed","Tue Dec 20 21:34:58 CST 2022","Tue Dec 20 21:35:09 CST 2022","10556","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:46 CST 2022","Tue Dec 20 21:37:50 CST 2022","4432","tests_web","test_web_search","TestSearch","","","Search without keyword(blank keyword)","
+        確認未輸入關鍵字而進行搜尋時，是否會顯示所有商品。
+        "
+"passed","Tue Dec 20 21:31:04 CST 2022","Tue Dec 20 21:31:09 CST 2022","4675","tests_web","test_web_category","","","","Switch category","
+    確認在進行切換Category的操作後，顯示商品是否有按照DB資料正確地篩選。
+    "
+"passed","Tue Dec 20 21:37:46 CST 2022","Tue Dec 20 21:37:53 CST 2022","7099","tests_web","test_web_search","TestSearch","","","Search with keywords not existed in products","
+        確認當沒有商品含有關鍵字時，是否會顯示空的搜尋結果。
+        "
+"passed","Tue Dec 20 21:31:15 CST 2022","Tue Dec 20 21:31:17 CST 2022","2272","tests_web","test_web_category","","","","Switch category","
+    確認在進行切換Category的操作後，顯示商品是否有按照DB資料正確地篩選。
+    "
+"passed","Tue Dec 20 21:37:31 CST 2022","Tue Dec 20 21:37:33 CST 2022","2204","tests_web","test_web_product_page","","","","Increase Quantity","
+    確認進行增加數量的操作時，數量是否有正確增加，並確認最大上限為9。
+    "
+"passed","Tue Dec 20 21:37:19 CST 2022","Tue Dec 20 21:37:26 CST 2022","7067","tests_web","test_web_create_product","","","","Create Product without login","
+    確認在未登入的狀態下進行建立商品的操作時，不能建立商品且會被重新導到登入畫面。
+    "
+"passed","Tue Dec 20 21:32:56 CST 2022","Tue Dec 20 21:33:07 CST 2022","11179","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:34 CST 2022","Tue Dec 20 21:37:36 CST 2022","2298","tests_web","test_web_product_page","","","","Decrease Quantity","
+    確認進行減少數量的操作時，數量是否有正確減少。
+    "
+"passed","Tue Dec 20 21:36:10 CST 2022","Tue Dec 20 21:36:20 CST 2022","9689","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:30:55 CST 2022","Tue Dec 20 21:30:59 CST 2022","4250","tests_web","test_web_category","","","","Switch category","
+    確認在進行切換Category的操作後，顯示商品是否有按照DB資料正確地篩選。
+    "
+"passed","Tue Dec 20 21:33:24 CST 2022","Tue Dec 20 21:33:44 CST 2022","19606","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "
+"passed","Tue Dec 20 21:34:26 CST 2022","Tue Dec 20 21:34:39 CST 2022","13732","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:36:13 CST 2022","Tue Dec 20 21:36:22 CST 2022","8717","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:36:13 CST 2022","Tue Dec 20 21:36:22 CST 2022","9208","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:35:28 CST 2022","Tue Dec 20 21:35:37 CST 2022","8815","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:34:53 CST 2022","Tue Dec 20 21:35:05 CST 2022","12568","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:36:34 CST 2022","Tue Dec 20 21:36:45 CST 2022","10326","tests_web","test_web_create_product","","","","Create Product with Invalid Value","
+    確認使用無效的資料建立新商品時，不可成功建立商品並顯示預期的訊息。
+    "
+"passed","Tue Dec 20 21:37:39 CST 2022","Tue Dec 20 21:37:41 CST 2022","2413","tests_web","test_web_product_page","","","","Add to cart failed","
+    確認未選擇尺寸的狀態下點擊加入購物車按鈕後，會跳出警告視窗。
+    "
+"passed","Tue Dec 20 21:31:34 CST 2022","Tue Dec 20 21:31:50 CST 2022","15494","tests_web","test_web_checkout","","","","Checkout with invalid values","
+    檢查輸入各種無效的訂單資訊時，會顯示預期的警告訊息。
+    "

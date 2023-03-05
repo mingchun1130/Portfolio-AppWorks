@@ -1,0 +1,3 @@
+{
+  "errorMsg": "Search Keyword is required."
+}

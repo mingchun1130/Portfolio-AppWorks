@@ -1,0 +1,66 @@
+{
+  "prime": "8622ba4c384179440f6ffe91bba9d03249a2a7a0ba2e4d14fdb68d1a4af24f97",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 531176,
+    "freight": 30,
+    "total": 531206,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201807242222,
+        "image": "http://54.201.140.239/assets/201807242222/main.jpg",
+        "name": "經典商務西裝",
+        "price": 3999,
+        "size": "M",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 5
+      },
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "L",
+        "color": {
+          "code": "FFDDDD",
+          "name": "粉紅"
+        },
+        "qty": 5
+      },
+      {
+        "id": 201807242211,
+        "image": "http://54.201.140.239/assets/201807242211/main.jpg",
+        "name": "純色輕薄百搭襯衫",
+        "price": 799,
+        "size": "M",
+        "color": {
+          "code": "FFFFFF",
+          "name": "白色"
+        },
+        "qty": 6
+      },
+      {
+        "id": 201807201824,
+        "image": "http://54.201.140.239/assets/201807201824/main.jpg",
+        "name": "前開衩扭結洋裝",
+        "price": 799,
+        "size": "L",
+        "color": {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        "qty": 8
+      }
+    ]
+  }
+}

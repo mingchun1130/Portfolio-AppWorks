@@ -1,0 +1,24 @@
+{
+  "prime": "1dbd0fe0e64c62a6c2ba2d5091462900c9d1da3b6afffefa2046d259144ef93d",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 799992,
+    "freight": 30,
+    "total": 800022,
+    "list": [
+      {
+        "id": 1671544317475,
+        "image": "http://54.201.140.239/assets/1671544317475/mainimage.jpg",
+        "name": "HMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMichaelMi",
+        "price": 99999,
+        "size": "F",
+        "color": {
+          "code": "DDFFBB",
+          "name": "亮綠"
+        },
+        "qty": 8
+      }
+    ]
+  }
+}

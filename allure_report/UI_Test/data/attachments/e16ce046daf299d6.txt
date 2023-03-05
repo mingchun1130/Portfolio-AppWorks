@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201902191242",
+    "name": "透肌澎澎薄紗襯衫",
+    "color": "淺藍",
+    "size": "M",
+    "quantity": 3,
+    "price": 999,
+    "subtotal": 2997
+  },
+  {
+    "id": "1671541958752",
+    "name": "H",
+    "color": "淺灰",
+    "size": "XL",
+    "quantity": 8,
+    "price": 0,
+    "subtotal": 0
+  }
+]

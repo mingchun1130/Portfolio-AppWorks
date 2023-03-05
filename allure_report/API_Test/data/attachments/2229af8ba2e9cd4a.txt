@@ -1,0 +1,6 @@
+INFO     root:request_util.py:13 POST http://54.201.140.239/api/1.0/user/login
+INFO     root:request_util.py:31 Status code is 200
+INFO     root:request_util.py:13 POST http://54.201.140.239/api/1.0/admin/product
+INFO     root:request_util.py:31 Status code is 400
+INFO     root:admin.py:65 Closing "otherImage0.jpg"
+INFO     root:admin.py:68 Closing "otherImage1.jpg"

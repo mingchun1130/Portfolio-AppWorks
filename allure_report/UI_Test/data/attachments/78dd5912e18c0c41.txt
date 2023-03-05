@@ -1,0 +1,20 @@
+[
+  {
+    "id": "201902191247",
+    "name": "經典修身長筒牛仔褲",
+    "color": "淺藍",
+    "size": "M",
+    "quantity": 7,
+    "price": 1999,
+    "subtotal": 13993
+  },
+  {
+    "id": "201807201824",
+    "name": "前開衩扭結洋裝",
+    "color": "淺灰",
+    "size": "S",
+    "quantity": 1,
+    "price": 799,
+    "subtotal": 799
+  }
+]

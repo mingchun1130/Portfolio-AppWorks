@@ -1,0 +1,11 @@
+{
+  "Receiver": "",
+  "Email": "abc@abc.com",
+  "Mobile": "0912345678",
+  "Address": "台北市",
+  "Deliver Time": "Anytime",
+  "Credit Card No": "4242 4242 4242 4242",
+  "Expiry Date": "12/69",
+  "Security Code": "123",
+  "Alert Msg": "請填寫完整訂購資料"
+}

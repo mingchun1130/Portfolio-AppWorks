@@ -1,0 +1,9 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw2
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw2/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_checkout.py:101 {'id': '201902191242', 'name': '透肌澎澎薄紗襯衫', 'color': '淺藍', 'size': 'M', 'quantity': 3, 'price': 999, 'subtotal': 2997}
+INFO     root:test_web_checkout.py:101 {'id': '201902191247', 'name': '經典修身長筒牛仔褲', 'color': '白色', 'size': 'M', 'quantity': 9, 'price': 1999, 'subtotal': 17991}
+INFO     root:test_web_checkout.py:135 Alert message is 請填寫完整訂購資料
+INFO     root:conftest.py:53 Taking final screenshot before ending test

@@ -1,0 +1,11 @@
+{
+  "Receiver": "陳大文",
+  "Email": "abc@abc.com",
+  "Mobile": "0912345678",
+  "Address": "台北市",
+  "Deliver Time": "Anytime",
+  "Credit Card No": "",
+  "Expiry Date": "12/69",
+  "Security Code": "123",
+  "Alert Msg": "付款資料輸入有誤"
+}

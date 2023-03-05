@@ -1,0 +1,30 @@
+{
+  "prime": "94ac71f1f36a2d6426de2f747404c6e2f3ed464275cdaa1cbdf8472c2c53805a",
+  "order": {
+    "shipping": "delivery",
+    "subtotal": 6392,
+    "freight": 30,
+    "total": 6422,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201807242230,
+        "image": "http://54.201.140.239/assets/201807242230/main.jpg",
+        "name": "經典牛仔帽",
+        "price": 799,
+        "size": "M",
+        "color": {
+          "code": "334455",
+          "name": "深藍"
+        },
+        "qty": 8
+      }
+    ]
+  }
+}

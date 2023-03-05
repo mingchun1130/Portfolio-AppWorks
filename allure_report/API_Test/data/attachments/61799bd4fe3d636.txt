@@ -1,0 +1,31 @@
+{
+  "prime": "94a1a086d098d35f5ddb324cffa849046597a288c2da521d992b417415636084",
+  "order": {
+    "shipping": "delivery",
+    "payment": "credit_card",
+    "subtotal": 8994,
+    "freight": 30,
+    "total": 9024,
+    "recipient": {
+      "name": "陳大文",
+      "phone": "0912345678",
+      "email": "abc@abc.com",
+      "address": "台北市",
+      "time": "anytime"
+    },
+    "list": [
+      {
+        "id": 201807242228,
+        "image": "http://54.201.140.239/assets/201807242228/main.jpg",
+        "name": "夏日海灘戶外遮陽帽",
+        "price": 1499,
+        "size": "M",
+        "color": {
+          "code": "BB7744",
+          "name": "淺棕"
+        },
+        "qty": 6
+      }
+    ]
+  }
+}

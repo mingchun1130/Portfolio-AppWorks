@@ -1,0 +1,9 @@
+INFO     root:conftest.py:35 Using Chrome browser to test
+INFO     WDM:logger.py:11 xdist worker is: gw1
+INFO     WDM:logger.py:11 ====== WebDriver manager ======
+INFO     WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+INFO     WDM:logger.py:11 Driver [/Users/mingchun/.wdm/gw1/drivers/chromedriver/mac64/108.0.5359/chromedriver] found in cache
+INFO     root:test_web_checkout.py:101 {'id': '201807242228', 'name': '夏日海灘戶外遮陽帽', 'color': '淺棕', 'size': 'M', 'quantity': 1, 'price': 1499, 'subtotal': 1499}
+INFO     root:test_web_checkout.py:101 {'id': '201807201824', 'name': '前開衩扭結洋裝', 'color': '亮綠', 'size': 'M', 'quantity': 4, 'price': 799, 'subtotal': 3196}
+INFO     root:test_web_checkout.py:135 Alert message is Receiver email cannot more than 50 characters.
+INFO     root:conftest.py:53 Taking final screenshot before ending test

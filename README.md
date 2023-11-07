@@ -1,2 +1,2 @@
-# This is Mingchun's Repository.
-這裡放了我在AppWorks的作業。
+# Test Automation Portfolio
+This repository contains my test automation project in AppWorks School.
